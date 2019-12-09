@@ -1,4 +1,4 @@
-# TOBII GLASSES 2 API IN CPP
+# TOBII GLASSES 2 API in CPP and ROS
 
 this API is written in UBUNTU16.04,ROS kinetic,it's building by "catkin_make" 
 
@@ -16,9 +16,8 @@ cd catkin_ws
 mkdir src
 ```
 ```
-git clone https://github.com/zhangqingbuaa/tobiiglass2_cpp
+git clone https://github.com/zhangqingbuaa/tobiiglass
 ```
-then you may need rename this  Folder as tobiiglass
 ```
 git submodule update --init --recursive
 ```
@@ -32,6 +31,4 @@ source ./devel/setup.bash
 rosrun tobiiglass  main 
 ```
 
-#tobiiglass
-# tobiiglass2_cpp
 # tobiiglass
