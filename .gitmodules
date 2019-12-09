@@ -4,3 +4,6 @@
 [submodule "opt/json"]
 	path = opt/json
 	url = git://github.com/nlohmann/json.git
+[submodule "opt/curl"]
+	path = opt/curl
+	url = git://github.com/curl/curl.git
