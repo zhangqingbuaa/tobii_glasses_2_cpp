@@ -1,5 +1,4 @@
-# C++ Requests Example
-
+# TOBII GLASSES 2 API IN CPP
 [![Travis Build Status](https://travis-ci.org/whoshuu/cpr-example.svg?branch=master)](https://travis-ci.org/whoshuu/cpr-example) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/l7c4yti84r9i87ys?svg=true)](https://ci.appveyor.com/project/whoshuu/cpr-example)
 
 [C++ Requests](https://github.com/whoshuu/cpr) is a simple wrapper around [libcurl](http://curl.haxx.se/libcurl) inspired by the excellent [Python Requests](https://github.com/kennethreitz/requests) project.
