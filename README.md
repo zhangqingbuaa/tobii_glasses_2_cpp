@@ -16,7 +16,7 @@ cd catkin_ws
 mkdir src
 ```
 ```
-git clone https://github.com/zhangqingbuaa/tobiiglass
+git clone https://github.com/zhangqingbuaa/tobii_glasses_2_cpp
 ```
 ```
 git submodule update --init --recursive
